@@ -1,6 +1,5 @@
 # Simple PHP script to send an Android Device push notifications using Firebase Cloud Messaging API
 
-# Readme
 
 $API_ACCESS_KEY: go to the firebase console, navigate to the project,  click the gear icon, project settings. Click on the tab "CLOUD MESSAGING"
 should look like this:
